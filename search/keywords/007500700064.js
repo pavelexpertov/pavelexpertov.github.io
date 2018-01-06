@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("upd",["Function"],[["updateFacingDirectionAngle",,[["Corridor",,,,0,"File2:Corridor/Corridor.h:Corridor.updateFacingDirectionAngle","CClass:Corridor:updateFacingDirectionAngle"]]]]);

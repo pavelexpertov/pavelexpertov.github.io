@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ref",["Class"],[["ReflectanceSensor",,[[,,,,0,"File2:ReflectanceSensor/ReflectanceSensor.h:ReflectanceSensor","CClass:ReflectanceSensor"]]]]);

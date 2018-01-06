@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("roo",["Class"],[["Room",,[[,,,,0,"File2:Room/Room.h:Room","CClass:Room"]]],["RoomScanStore",,[[,,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore","CClass:RoomScanStore"]]]]);

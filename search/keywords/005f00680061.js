@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("_ha",["Variable"],[["_hasReachedStopDegreeFlag",,[[,,,,0,"File:scan_room_state.ino:_hasReachedStopDegreeFlag"]]]]);

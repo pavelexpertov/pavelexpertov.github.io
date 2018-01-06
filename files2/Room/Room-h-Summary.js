@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File2:Room/Room.h","Room.h");NDSummary.OnSummaryLoaded("File2:Room/Room.h",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[101,0,0,"Room","Room"],[102,0,2,"Functions","Room.Functions"],[103,0,1,"getRoomId","Room.getRoomId"],[104,0,1,"getCorridorId","Room.getCorridorId"]]);

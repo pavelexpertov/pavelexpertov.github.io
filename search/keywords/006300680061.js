@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cha",["Function"],[["changeCurrentSpeed",,[["Motors",,,,0,"File2:Motors/Motors.h:Motors.changeCurrentSpeed","CClass:Motors:changeCurrentSpeed"]]],["changeCurrentState",,[[,,,,0,"File:state_functions.ino:changeCurrentState"]]]]);

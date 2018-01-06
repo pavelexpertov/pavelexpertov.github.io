@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:manual_state_function.ino","manual_state_function.ino");NDSummary.OnSummaryLoaded("File:manual_state_function.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[75,0,1,"Functions","Functions"],[76,0,0,"runManualState","runManualState"]]);

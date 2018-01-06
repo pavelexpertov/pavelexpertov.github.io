@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ism",["Function"],[["isMovedBackwards",,[["RoomScanStore",,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore.isMovedBackwards","CClass:RoomScanStore:isMovedBackwards"]]]]);

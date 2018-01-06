@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("can",["Function"],[["canConfigureRfsensor",,[[,,,,0,"File:initialisation_functions.ino:canConfigureRfsensor"]]]]);

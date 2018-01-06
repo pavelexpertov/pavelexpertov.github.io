@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:distance_and_time_functions.ino","distance_and_time_functions.ino");NDSummary.OnSummaryLoaded("File:distance_and_time_functions.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[26,0,1,"Functions","Functions"],[27,0,0,"calculateSecondsOnDistanceSpeed","calculateSecondsOnDistanceSpeed"]]);

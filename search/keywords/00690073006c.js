@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isl",["Function"],[["isLeftPresent",,[["ReflectanceSensor",,,,0,"File2:ReflectanceSensor/ReflectanceSensor.h:ReflectanceSensor.isLeftPresent","CClass:ReflectanceSensor:isLeftPresent"]]]]);

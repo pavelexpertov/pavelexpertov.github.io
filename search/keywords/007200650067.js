@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("reg",["Class"],[["Registry",,[[,,,,0,"File2:Registry/Registry.h:Registry","CClass:Registry"]]]]);

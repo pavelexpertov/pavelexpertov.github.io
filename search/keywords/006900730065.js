@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ise",["Function"],[["isExistingSurvivor",,[["Registry",,,,0,"File2:Registry/Registry.h:Registry.isExistingSurvivor","CClass:Registry:isExistingSurvivor"]]]]);

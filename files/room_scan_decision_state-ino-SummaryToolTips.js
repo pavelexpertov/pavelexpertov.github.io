@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:room_scan_decision_state.ino",{66:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">A state that configures zumo before it starts doing the scan in a room</div></div>"});

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isd",["Function"],[["isDegreePositionMatch",,[["Survivor",,,,0,"File2:Survivor/Survivor.h:Survivor.isDegreePositionMatch","CClass:Survivor:isDegreePositionMatch"]]],["isDiscoveredByWallCollision",,[["Corridor",,,,0,"File2:Corridor/Corridor.h:Corridor.isDiscoveredByWallCollision","CClass:Corridor:isDiscoveredByWallCollision"]]]]);

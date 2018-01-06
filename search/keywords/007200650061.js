@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rea",["Function"],[["readCharFromSerial",,[[,,,,0,"File:serial_functions.ino:readCharFromSerial"]]],["readCharFromWaitingSerial",,[[,,,,0,"File:serial_functions.ino:readCharFromWaitingSerial"]]]]);

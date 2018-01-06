@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:turn_state_function.ino","turn_state_function.ino");NDSummary.OnSummaryLoaded("File:turn_state_function.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[38,0,1,"Functions","Functions"],[39,0,0,"runTurnState","runTurnState"]]);

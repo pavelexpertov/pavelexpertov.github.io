@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sur",["Function","Class"],[["surfaceDetect",,[["ReflectanceSensor",,,,0,"File2:ReflectanceSensor/ReflectanceSensor.h:ReflectanceSensor.surfaceDetect","CClass:ReflectanceSensor:surfaceDetect"]]],["Survivor",,[[,,,,1,"File2:Survivor/Survivor.h:Survivor","CClass:Survivor"]]]]);

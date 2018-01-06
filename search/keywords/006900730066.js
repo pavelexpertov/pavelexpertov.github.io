@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isf",["Function"],[["isFromScanRoomState",,[["RoomScanStore",,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore.isFromScanRoomState","CClass:RoomScanStore:isFromScanRoomState"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("d_p",["Function"],[["d_printlnToSerial",,[[,,,,0,"File:debug_functions.ino:d_printlnToSerial"]]],["d_printStates",,[[,,,,0,"File:debug_functions.ino:d_printStates"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("has",["Function"],[["hasDetectedContact",,[["UltraSonicSensor",,,,0,"File2:UltraSonicSensor/UltraSonicSensor.h:UltraSonicSensor.hasDetectedContact","CClass:UltraSonicSensor:hasDetectedContact"]]],["hasReachedStopDegree",,[[,,,,0,"File:scan_room_state.ino:hasReachedStopDegree"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("iss",["Function"],[["isSerialNonEmpty",,[[,,,,0,"File:serial_functions.ino:isSerialNonEmpty"]]]]);

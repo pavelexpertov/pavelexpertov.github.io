@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("_de",["Function"],[["_decideUponCollisionForTurnAfterNormCollState",,[[,,,,0,"File:turn_after_norm_coll_state_function.ino:_decideUponCollisionForTurnAfterNormCollState"]]]]);

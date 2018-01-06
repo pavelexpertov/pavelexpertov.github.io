@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isw",["Function"],[["isWallPresent",,[["ReflectanceSensor",,,,0,"File2:ReflectanceSensor/ReflectanceSensor.h:ReflectanceSensor.isWallPresent","CClass:ReflectanceSensor:isWallPresent"]]]]);

@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:special_m_message_state_function.ino",{41:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">A state function that runs a decision based on the message being sent</div></div>",42:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">A function that handles a corridor based on the special message</div></div>"});

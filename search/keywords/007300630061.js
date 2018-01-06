@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sca",["Function"],[["scanOtherSideOfSurvivor",,[[,,,,0,"File:scan_room_state.ino:scanOtherSideOfSurvivor"]]],["scanSelectedSide",,[[,,,,0,"File:scan_room_state.ino:scanSelectedSide"]]]]);

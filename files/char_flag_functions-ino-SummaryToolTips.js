@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:char_flag_functions.ino",{32:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">Sets a character that the user pressed or can be manipulated by states</div></div>",33:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">Checks against assigned character in user_char_flag</div></div>"});

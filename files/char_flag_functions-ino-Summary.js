@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:char_flag_functions.ino","char_flag_functions.ino");NDSummary.OnSummaryLoaded("File:char_flag_functions.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[29,0,1,"Functions","Functions"],[32,0,0,"setCharFlag","setCharFlag"],[33,0,0,"isCharFlagEqual","isCharFlagEqual"]]);

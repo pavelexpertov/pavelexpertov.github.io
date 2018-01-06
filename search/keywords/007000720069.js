@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pri",["Function"],[["printlnToSerial",,[[,,,,0,"File:serial_functions.ino:printlnToSerial"]]]]);

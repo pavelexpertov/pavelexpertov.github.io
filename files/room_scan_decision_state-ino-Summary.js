@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:room_scan_decision_state.ino","room_scan_decision_state.ino");NDSummary.OnSummaryLoaded("File:room_scan_decision_state.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[65,0,1,"Functions","Functions"],[66,0,0,"runRoomScanDecisionState","runRoomScanDecisionState"]]);

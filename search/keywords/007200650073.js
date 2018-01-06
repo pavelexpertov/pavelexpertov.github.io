@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("res",["Function"],[["resetFlags",,[["RoomScanStore",,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore.resetFlags","CClass:RoomScanStore:resetFlags"]]]]);

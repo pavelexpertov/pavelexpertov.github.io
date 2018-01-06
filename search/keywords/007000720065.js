@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pre",["Variable"],[["prev_state",,[[,,,,0,"File:zumo-rescuer.ino:prev_state"]]]]);

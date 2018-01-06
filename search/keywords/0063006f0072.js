@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cor",["Class"],[["Corridor",,[[,,,,0,"File2:Corridor/Corridor.h:Corridor","CClass:Corridor"]]]]);

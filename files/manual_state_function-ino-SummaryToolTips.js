@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:manual_state_function.ino",{76:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">The state allows the user to control zumo and send special commands while detecting any surface changes (like borders).</div></div>"});

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ave",["Function"],[["averageHeading",,[[,,,,0,"File:compass_functions_and_constants.ino:averageHeading"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isc",["Function"],[["isCharFlagEqual",,[[,,,,0,"File:char_flag_functions.ino:isCharFlagEqual"]]],["isCollidedByWall",,[["RoomScanStore",,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore.isCollidedByWall","CClass:RoomScanStore:isCollidedByWall"]]],["isCurrentStateEqual",,[[,,,,0,"File:state_functions.ino:isCurrentStateEqual"]]]]);

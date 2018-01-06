@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isi",["Function"],[["isInterferedByMovingSurface",,[["RoomScanStore",,,,0,"File2:RoomScanStore/RoomScanStore.h:RoomScanStore.isInterferedByMovingSurface","CClass:RoomScanStore:isInterferedByMovingSurface"]]]]);

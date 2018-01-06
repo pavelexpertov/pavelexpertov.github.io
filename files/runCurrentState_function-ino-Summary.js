@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:runCurrentState_function.ino","runCurrentState_function.ino");NDSummary.OnSummaryLoaded("File:runCurrentState_function.ino",[["Arduino","Arduino"]],[["Functions","Function"],["Groups","Group"]],[[2,0,1,"Functions","Functions"],[64,0,0,"runCurrentState","runCurrentState"]]);

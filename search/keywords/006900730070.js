@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isp",["Function"],[["isPrevStateEqual",,[[,,,,0,"File:state_functions.ino:isPrevStateEqual"]]]]);

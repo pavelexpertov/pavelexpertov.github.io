@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("che",["Function"],[["checkForObjectAtStart",,[[,,,,0,"File:scan_room_state.ino:checkForObjectAtStart"]]]]);

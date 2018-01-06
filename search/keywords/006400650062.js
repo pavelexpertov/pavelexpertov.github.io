@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("deb",["Variable"],[["DEBUG_MODE",,[[,,,,0,"File:zumo-rescuer.ino:DEBUG_MODE"]]]]);

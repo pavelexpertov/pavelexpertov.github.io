@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:led_pin_functions.ino",{72:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">Initialises led</div></div>",73:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">Turn led on</div></div>",74:"<div class=\"NDToolTip TFunction LArduino\"><div class=\"TTSummary\">Turn led off</div></div>"});
